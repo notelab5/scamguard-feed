@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-08T00:00:00Z",
+  "brands": [
+    { "id": "sagawa", "nameJa": "佐川急便", "keywords": ["sagawa"], "officialDomains": ["sagawa-exp.co.jp"] },
+    { "id": "yamato", "nameJa": "ヤマト運輸", "keywords": ["yamato", "kuroneko"], "officialDomains": ["kuronekoyamato.co.jp"] },
+    { "id": "japanpost", "nameJa": "日本郵便", "keywords": ["japanpost"], "officialDomains": ["japanpost.jp"] },
+    { "id": "smbc", "nameJa": "三井住友銀行", "keywords": ["smbc"], "officialDomains": ["smbc.co.jp"] },
+    { "id": "mizuho", "nameJa": "みずほ銀行", "keywords": ["mizuho"], "officialDomains": ["mizuhobank.co.jp"] },
+    { "id": "amazon", "nameJa": "Amazon", "keywords": ["amazon"], "officialDomains": ["amazon.co.jp", "amazon.com"] },
+    { "id": "rakuten", "nameJa": "楽天", "keywords": ["rakuten"], "officialDomains": ["rakuten.co.jp"] },
+    { "id": "docomo", "nameJa": "NTTドコモ", "keywords": ["docomo"], "officialDomains": ["docomo.ne.jp", "nttdocomo.co.jp"] }
+  ]
+}
